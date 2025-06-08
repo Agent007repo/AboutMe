@@ -8,7 +8,7 @@ Hi there 👋, I'm Samarth Annigeri!
   <em>Master’s in Analytics @ McGill University · Aspiring Product Manager · Data Enthusiast</em>
 </p>
 
----
+
 
 ### 🚀 About Me
 
@@ -19,7 +19,7 @@ Hi there 👋, I'm Samarth Annigeri!
 - 🌱 **Interests:** Product analytics, AI/ML, cloud platforms, health & fitness
 - 🥗 **Background:** Vegetarian · Indian · Based in Montréal
 
----
+
 
 ### 📈 What I Do
 
@@ -28,15 +28,15 @@ Hi there 👋, I'm Samarth Annigeri!
 - 🤝 Collaborate on analytics, cloud, and product management projects
 - 🌏 Open to global opportunities in analytics & product roles
 
----
+
 
 ### 📫 How to reach me
 
 - [LinkedIn](https://www.linkedin.com/in/samarth-annigeri-14326a178/)
 - [Email](mailto:samarth.annigeri@mail.mcgill.ca)
-- [Portfolio](https://theindianmagenta.notion.site/QSR-Space-Nizario-s-Pizza-62fe621686ce4883b6179714766ee5b0)
+- [Portfolio](https://theindianmagenta.notion.site/Product-Portfolio-f56b69796af74829a005df99d3cadf4b)
 
----
+
 
 ### 💡 Let’s Connect!
 
@@ -46,8 +46,3 @@ I'm always interested in talking about:
 - Career growth in tech & data
 - Global networking and collaborations
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samarth-annigeri&show_icons=true&hide_title=true&hide_rank=true" alt="Samarth's GitHub stats"/>
-</p>
