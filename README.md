@@ -32,9 +32,9 @@ Hi there 👋, I'm Samarth Annigeri!
 
 ### 📫 How to reach me
 
-- [LinkedIn](https://www.linkedin.com/in/samarth-annigeri/)
+- [LinkedIn](https://www.linkedin.com/in/samarth-annigeri-14326a178/)
 - [Email](mailto:samarth.annigeri@mail.mcgill.ca)
-- [Portfolio](https://samarthannigeri.github.io) *(if available)*
+- [Portfolio]([https://samarthannigeri.github.io](https://theindianmagenta.notion.site/QSR-Space-Nizario-s-Pizza-62fe621686ce4883b6179714766ee5b0))
 
 ---
 
